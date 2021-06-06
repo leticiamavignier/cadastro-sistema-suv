@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
 
-# Define the windows contents
+# Itens da tela de cadastro com o tema definido
 sg.theme('Darkbrown2')
 layout = [[sg.Text("Bem Vindo ao sistema SUV – Salve Uma Vida")],
           [sg.Text("Para fazer sua solicitação é preciso se cadastrar")],
