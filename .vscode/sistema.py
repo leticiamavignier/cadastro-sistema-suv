@@ -19,12 +19,12 @@ layout = [[sg.Text("Bem Vindo ao sistema SUV – Salve Uma Vida")],
 # Nome da Tela de Cadastro
 window = sg.Window('Sistema SUV - Salve Uma Vida', layout)
 
-# Display and interact with the Window
+# Interação da tela de cadastro
 event, values = window.read()
 
 
 text_input = values[0]
 sg.popup('Seu cadastro foi realizado com sucesso', text_input)
 
-# Finish up by removing from the screen
+# Fechar tela de cadastro
 window.close()
