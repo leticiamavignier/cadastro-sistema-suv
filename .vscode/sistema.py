@@ -16,7 +16,7 @@ layout = [[sg.Text("Bem Vindo ao sistema SUV – Salve Uma Vida")],
           [sg.Input()],
           [sg.Button('Cadastrar')]]
 
-# Create the windows
+# Nome da Tela de Cadastro
 window = sg.Window('Sistema SUV - Salve Uma Vida', layout)
 
 # Display and interact with the Window
