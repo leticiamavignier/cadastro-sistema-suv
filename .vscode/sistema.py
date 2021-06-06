@@ -1,6 +1,7 @@
 import PySimpleGUI as sg
-sg.theme = ('DarkAmber')
+
 # Define the windows contents
+sg.theme('Darkbrown2')
 layout = [[sg.Text("Bem Vindo ao sistema SUV – Salve Uma Vida")],
           [sg.Text("Para fazer sua solicitação é preciso se cadastrar")],
           [sg.Text("IMPORTANTE: ")],
@@ -16,7 +17,6 @@ layout = [[sg.Text("Bem Vindo ao sistema SUV – Salve Uma Vida")],
           [sg.Button('Cadastrar')]]
 
 # Create the windows
-sg.theme = ('DarkAmber')
 window = sg.Window('Sistema SUV - Salve Uma Vida', layout)
 
 # Display and interact with the Window
