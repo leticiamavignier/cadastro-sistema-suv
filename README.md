@@ -13,3 +13,6 @@ Aplicabilidade: Poderá ser utilizado em casos de sistemas simples onde haja a n
 
 ### Tela de Cadastro
 ![Tela de Cadastro](https://github.com/leticiamavignier/cadastro-sistema-suv/blob/main/tela%20de%20cadastro.PNG)
+
+### Abertura de Protocolo
+![Abertura de Protocolo](https://github.com/leticiamavignier/cadastro-sistema-suv/blob/main/Abertura%20de%20Protocolo.PNG)
